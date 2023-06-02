@@ -1,0 +1,15 @@
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\bin\Debug\net6.0\StringSearch.exe
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\bin\Debug\net6.0\StringSearch.deps.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\bin\Debug\net6.0\StringSearch.runtimeconfig.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\bin\Debug\net6.0\StringSearch.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\bin\Debug\net6.0\StringSearch.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.csproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.AssemblyInfo.cs
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\refint\StringSearch.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\StringSearch.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSearch\obj\Debug\net6.0\ref\StringSearch.dll

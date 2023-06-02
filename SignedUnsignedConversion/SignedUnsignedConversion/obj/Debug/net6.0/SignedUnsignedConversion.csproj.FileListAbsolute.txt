@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/net6.0/SignedUnsignedConversion
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/net6.0/SignedUnsignedConversion.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/net6.0/SignedUnsignedConversion.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/net6.0/SignedUnsignedConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/net6.0/SignedUnsignedConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/refint/SignedUnsignedConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/SignedUnsignedConversion.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/net6.0/ref/SignedUnsignedConversion.dll

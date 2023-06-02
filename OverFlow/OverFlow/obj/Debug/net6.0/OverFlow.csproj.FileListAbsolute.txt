@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/bin/Debug/net6.0/OverFlow
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/bin/Debug/net6.0/OverFlow.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/bin/Debug/net6.0/OverFlow.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/bin/Debug/net6.0/OverFlow.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/bin/Debug/net6.0/OverFlow.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/refint/OverFlow.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/OverFlow.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/OverFlow/OverFlow/obj/Debug/net6.0/ref/OverFlow.dll

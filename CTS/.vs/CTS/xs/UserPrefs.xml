@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FA308A94-446E-4905-B2CE-41B5FA4D6344}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CTS/MainApp.cs">
+    <Files>
+      <File FileName="CTS/MainApp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CTS" expanded="True">
+            <Node name="CTS" expanded="True">
+              <Node name="MainApp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CTS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

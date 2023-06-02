@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/bin/Debug/net6.0/Enum2
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/bin/Debug/net6.0/Enum2.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/bin/Debug/net6.0/Enum2.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/bin/Debug/net6.0/Enum2.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/bin/Debug/net6.0/Enum2.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/refint/Enum2.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/Enum2.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Enum2/Enum2/obj/Debug/net6.0/ref/Enum2.dll

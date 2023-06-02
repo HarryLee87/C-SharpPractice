@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F3E1DD4C-1711-42B4-B0D3-1C0058923033}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringNumberConversion/MainApp.cs">
+    <Files>
+      <File FileName="StringNumberConversion/Program.cs" Line="23" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringNumberConversion" expanded="True">
+            <Node name="StringNumberConversion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringNumberConversion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

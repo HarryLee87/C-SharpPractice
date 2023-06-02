@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/bin/Debug/net6.0/IntegralConversion
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/bin/Debug/net6.0/IntegralConversion.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/bin/Debug/net6.0/IntegralConversion.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/bin/Debug/net6.0/IntegralConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/bin/Debug/net6.0/IntegralConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/refint/IntegralConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/IntegralConversion.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralConversion/IntegralConversion/obj/Debug/net6.0/ref/IntegralConversion.dll

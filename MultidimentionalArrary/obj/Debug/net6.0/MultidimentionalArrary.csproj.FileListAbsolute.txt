@@ -1,0 +1,15 @@
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\bin\Debug\net6.0\MultidimentionalArrary.exe
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\bin\Debug\net6.0\MultidimentionalArrary.deps.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\bin\Debug\net6.0\MultidimentionalArrary.runtimeconfig.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\bin\Debug\net6.0\MultidimentionalArrary.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\bin\Debug\net6.0\MultidimentionalArrary.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.csproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.AssemblyInfo.cs
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.csproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\refint\MultidimentionalArrary.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\MultidimentionalArrary.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\MultidimentionalArrary\obj\Debug\net6.0\ref\MultidimentionalArrary.dll

@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/bin/Debug/net6.0/FloatToIntegral
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/bin/Debug/net6.0/FloatToIntegral.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/bin/Debug/net6.0/FloatToIntegral.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/bin/Debug/net6.0/FloatToIntegral.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/bin/Debug/net6.0/FloatToIntegral.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/refint/FloatToIntegral.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/FloatToIntegral.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatToIntegral/FloatToIntegral/obj/Debug/net6.0/ref/FloatToIntegral.dll

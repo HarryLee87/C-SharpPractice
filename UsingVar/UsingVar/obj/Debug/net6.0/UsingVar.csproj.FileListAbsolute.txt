@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/bin/Debug/net6.0/UsingVar
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/bin/Debug/net6.0/UsingVar.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/bin/Debug/net6.0/UsingVar.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/bin/Debug/net6.0/UsingVar.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/bin/Debug/net6.0/UsingVar.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/refint/UsingVar.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/UsingVar.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/UsingVar/UsingVar/obj/Debug/net6.0/ref/UsingVar.dll

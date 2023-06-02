@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/bin/Debug/net6.0/BoxingUnboxing
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/bin/Debug/net6.0/BoxingUnboxing.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/bin/Debug/net6.0/BoxingUnboxing.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/bin/Debug/net6.0/BoxingUnboxing.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/bin/Debug/net6.0/BoxingUnboxing.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/refint/BoxingUnboxing.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/BoxingUnboxing.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/BoxingUnboxing/BoxingUnboxing/obj/Debug/net6.0/ref/BoxingUnboxing.dll

@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/bin/Debug/net6.0/StringNumberConversion
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/bin/Debug/net6.0/StringNumberConversion.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/bin/Debug/net6.0/StringNumberConversion.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/bin/Debug/net6.0/StringNumberConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/bin/Debug/net6.0/StringNumberConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/refint/StringNumberConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/StringNumberConversion.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/StringNumberConversion/StringNumberConversion/obj/Debug/net6.0/ref/StringNumberConversion.dll

@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/bin/Debug/net7.0/hello
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/bin/Debug/net7.0/hello.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/bin/Debug/net7.0/hello.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/bin/Debug/net7.0/hello.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/bin/Debug/net7.0/hello.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/refint/hello.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/hello.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/hello/hello/obj/Debug/net7.0/ref/hello.dll

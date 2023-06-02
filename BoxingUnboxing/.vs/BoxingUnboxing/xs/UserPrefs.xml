@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{16FE5432-2E8C-42DF-8805-B4B7F123BBA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.BoxingUnboxing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoxingUnboxing/MainApp.cs">
+    <Files>
+      <File FileName="BoxingUnboxing/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoxingUnboxing" expanded="True">
+            <Node name="BoxingUnboxing" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

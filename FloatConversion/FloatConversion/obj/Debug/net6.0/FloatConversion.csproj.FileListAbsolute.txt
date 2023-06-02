@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/bin/Debug/net6.0/FloatConversion
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/bin/Debug/net6.0/FloatConversion.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/bin/Debug/net6.0/FloatConversion.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/bin/Debug/net6.0/FloatConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/bin/Debug/net6.0/FloatConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/refint/FloatConversion.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/FloatConversion.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatConversion/FloatConversion/obj/Debug/net6.0/ref/FloatConversion.dll

@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/bin/Debug/net7.0/IntegralTypes
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/bin/Debug/net7.0/IntegralTypes.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/bin/Debug/net7.0/IntegralTypes.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/bin/Debug/net7.0/IntegralTypes.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/bin/Debug/net7.0/IntegralTypes.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/refint/IntegralTypes.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/IntegralTypes.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/IntegralTypes/IntegralTypes/obj/Debug/net7.0/ref/IntegralTypes.dll

@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/bin/Debug/net6.0/Bool
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/bin/Debug/net6.0/Bool.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/bin/Debug/net6.0/Bool.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/bin/Debug/net6.0/Bool.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/bin/Debug/net6.0/Bool.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/refint/Bool.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/Bool.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Bool/Bool/obj/Debug/net6.0/ref/Bool.dll

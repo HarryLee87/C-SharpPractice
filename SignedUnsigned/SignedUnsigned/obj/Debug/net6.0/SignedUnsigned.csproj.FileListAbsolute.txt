@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/bin/Debug/net6.0/SignedUnsigned
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/bin/Debug/net6.0/SignedUnsigned.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/bin/Debug/net6.0/SignedUnsigned.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/bin/Debug/net6.0/SignedUnsigned.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/bin/Debug/net6.0/SignedUnsigned.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/refint/SignedUnsigned.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/SignedUnsigned.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/SignedUnsigned/SignedUnsigned/obj/Debug/net6.0/ref/SignedUnsigned.dll

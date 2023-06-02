@@ -1,0 +1,15 @@
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.csproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.AssemblyInfo.cs
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.csproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\bin\Debug\net6.0\StringModify.exe
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\bin\Debug\net6.0\StringModify.deps.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\bin\Debug\net6.0\StringModify.runtimeconfig.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\bin\Debug\net6.0\StringModify.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\bin\Debug\net6.0\StringModify.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\refint\StringModify.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\StringModify.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringModify\obj\Debug\net6.0\ref\StringModify.dll

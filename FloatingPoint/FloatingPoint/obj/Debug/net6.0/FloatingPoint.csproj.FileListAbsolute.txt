@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/bin/Debug/net6.0/FloatingPoint
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/bin/Debug/net6.0/FloatingPoint.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/bin/Debug/net6.0/FloatingPoint.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/bin/Debug/net6.0/FloatingPoint.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/bin/Debug/net6.0/FloatingPoint.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/refint/FloatingPoint.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/FloatingPoint.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/FloatingPoint/FloatingPoint/obj/Debug/net6.0/ref/FloatingPoint.dll

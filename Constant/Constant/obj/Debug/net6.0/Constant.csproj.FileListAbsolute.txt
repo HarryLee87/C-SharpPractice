@@ -1,0 +1,15 @@
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/bin/Debug/net6.0/Constant
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/bin/Debug/net6.0/Constant.deps.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/bin/Debug/net6.0/Constant.runtimeconfig.json
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/bin/Debug/net6.0/Constant.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/bin/Debug/net6.0/Constant.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.csproj.AssemblyReference.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.AssemblyInfoInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.AssemblyInfo.cs
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.csproj.CoreCompileInputs.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/refint/Constant.dll
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.pdb
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/Constant.genruntimeconfig.cache
+/Users/harrylee/Library/CloudStorage/OneDrive-Personal/Coding_Practice/C#/Constant/Constant/obj/Debug/net6.0/ref/Constant.dll

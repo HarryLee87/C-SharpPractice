@@ -1,0 +1,15 @@
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.csproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.AssemblyInfo.cs
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.csproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\bin\Debug\net6.0\Game_Array.exe
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\bin\Debug\net6.0\Game_Array.deps.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\bin\Debug\net6.0\Game_Array.runtimeconfig.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\bin\Debug\net6.0\Game_Array.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\bin\Debug\net6.0\Game_Array.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\refint\Game_Array.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\Game_Array.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\Game_Array\obj\Debug\net6.0\ref\Game_Array.dll

@@ -1,0 +1,15 @@
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.csproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.AssemblyInfo.cs
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\bin\Debug\net6.0\StringSlice.exe
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\bin\Debug\net6.0\StringSlice.deps.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\bin\Debug\net6.0\StringSlice.runtimeconfig.json
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\bin\Debug\net6.0\StringSlice.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\bin\Debug\net6.0\StringSlice.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\refint\StringSlice.dll
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.pdb
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\StringSlice.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Coding_Practice\C#\StringSlice\obj\Debug\net6.0\ref\StringSlice.dll
